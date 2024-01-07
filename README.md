@@ -3,3 +3,4 @@
 - Google Sheets Project (Data Science Bootcamp #9 by DataRockie 2023) <br> - Google Sheets function <br> - Analysis & Create dashboard on Freefire vs. PubG Social media Data
 - R Project (Data Science Bootcamp #9 by DataRockie 2023) <br> - Data Analysis with R <br> - Data Visualization in R
 - SQL Project (DataCamp 2023)  <br> - SQL Exam project
+- Data Visualization <br> - Salary Trends in Data-Related Careers (Worldwide) [Looker Studio & Tableau]
